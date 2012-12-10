@@ -46,7 +46,7 @@
 # Digital receiver information is retained and compensated for within
 # the digital receiver driver.
 #
-#10) Analog Rx attenuator step (dB)
+# 10) Analog Rx attenuator step (dB)
 #
 # In order to obtain information on the vertical angle of arrival of
 # the backscattered signals, the SuperDARN radars include a four antenna
