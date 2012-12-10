@@ -1,5 +1,4 @@
 #  Hardware parameters for Blackstone radar.
-#
 # Each radar has a distinct set of hardware parameters that are used
 # by the radar control software and the analysis software. These
 # parameters are read in a distinct order and are assumed to have
@@ -12,7 +11,6 @@
 # that copies of these files are retained under revision control by Rob
 # Barnes. Revision controlled versions of hdw.dat files are destributed
 # with SuperDARN radar control software and with analysis software.
-#
 # The hardware parameters are distributed as a string of values
 # delineated by one or more spaces. The following table specifies the
 # parameters, their units, and a brief description of their meaning.
