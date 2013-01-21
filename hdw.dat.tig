@@ -1,4 +1,4 @@
-#  Hardware parameters for TIGER radar.
+#  Hardware parameters for Bruny Island TIGER radar.
 #
 # Each radar has a distinct set of hardware parameters that are used
 # by the radar control software and the analysis software. These
