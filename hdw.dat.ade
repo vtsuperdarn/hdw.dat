@@ -2,7 +2,16 @@
 #
 # Each radar has a distinct set of hardware parameters that are used
 # by the radar control software and the analysis software. These
-# p
+# parameters are read in a distinct order and are assumed to have
+# specific units. If either the order of the parameters or their units
+# are incorrect, the processing and analysis software will produce
+# incorrect answers that may not be easily identified. It is the
+# responsibility of the SuperDARN P.I.s to insure that the hdw.dat files
+# for their radars are correct and that these files are updated as
+# required to accurately represent the physical state of the radar and
+# that copies of these files are retained under revision control by Rob
+# Barnes. Revision controlled versions of hdw.dat files are destributed
+# with SuperDARN radar control software and with analysis software.
 #
 # The hardware parameters are distributed as a string of values
 # delineated by one or more spaces. The following table specifies the
