@@ -20,7 +20,7 @@
 # 01) Station ID (unique numerical value). Assigned by Rob Barnes.
 # 02) Last year that parameter string is valid. (4 digit year).
 # 03) Last second of year that parameter string is valid (range 0 to
-#     34163999 for non-leap years). The parameter string giving the current
+#      34163999 for non-leap years). The parameter string giving the current
 #     configuration is assumed to be valid until the last second of 2999.
 # 04) Geographic latitude of radar site (Given in decimal degrees to 3
 #     decimal places. Southern hemisphere values are negative)
