@@ -13,6 +13,10 @@
 # Barnes. Revision controlled versions of hdw.dat files are destributed
 # with SuperDARN radar control software and with analysis software.
 #
+# The hardware parameters are distributed as a string of values
+# delineated by one or more spaces. The following table specifies the
+# parameters, their units, and a brief description of their meaning.
+#
 # 01) Station ID (unique numerical value). Assigned by Rob Barnes.
 # 02) Last year that parameter string is valid. (4 digit year).
 # 03) Last second of year that parameter string is valid (range 0 to
@@ -120,6 +124,9 @@
 # UNTIL 31/Jan/2012 17:10:55.0
    33 2012  2653855   37.100  -77.950    50.0  -40.0  3.24 -1    0 -0.324  1    0.0  -58.9   -2.7   0.0  0 110 24
 #
+# UNTIL 10/Apr/2013 20:00:00.0
+   33 2013  8625600   37.100  -77.950    50.0  -40.0  3.24  1    0 -0.324  1    0.0  -58.9   -2.7   0.0  0 110 24
+#
 # UNTIL 29/Jan/2999 00:00:00.0
-   33 2999  2419200   37.100  -77.950    50.0  -40.0  3.24  1    0 -0.324  1    0.0  -58.9   -2.7   0.0  0 110 24
+   33 2999  2419200   37.100  -77.950    50.0  -40.0  3.24  1    0 -0.378  1    0.0  -58.9   -2.7   0.0  0 110 24
 # EOF 
