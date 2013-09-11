@@ -64,7 +64,7 @@
 #     interferometer comes first, then tdiff < 0. Units are in decimal
 #     microseconds)
 # 12) Phase sign (Cabling errors can lead to a 180 degree shift of the
-#     interferometry phase measurement. +1 indicates that the sign is
+#     interferometry phase measurement, phi0. +1 indicates that the sign is
 #     correct, -1 indicates that it must be flipped.)
 # 13) Interferometer offset  (Displacement of midpoint of
 #     interferometer array from midpoint of main array. This is given in
